@@ -10,10 +10,10 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                    SYSTEM BOOT SEQUENCE                      ║
 ║              ═══════════════════════════════                 ║
-║  ▸ BIOS CHECK...... OK                                      ║
-║  ▸ MEMORY TEST..... 64KB OK                                 ║
-║  ▸ LOADING KERNEL... OK                                     ║
-║  ▸ INIT DISPLAY..... 320x240 16-COLOR MODE                  ║
+║  ▸ BIOS CHECK...... OK                                       ║
+║  ▸ MEMORY TEST..... 64KB OK                                  ║
+║  ▸ LOADING KERNEL... OK                                      ║
+║  ▸ INIT DISPLAY..... 320x240 16-COLOR MODE                   ║
 ║  ▸ LAUNCHING PROFILE..... DONE                               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
