@@ -111,10 +111,10 @@ SINCE:      2024
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM SHUTDOWN                            ║
+║                    SYSTEM SHUTDOWN                           ║
 ║              ═══════════════════════════════                 ║
-║  >  LOADING NEXT_LEVEL.EXE...                                 ║
-║  >  PRESS ANY KEY TO CONTINUE...                              ║
+║  >  LOADING NEXT_LEVEL.EXE...                                ║
+║  >  PRESS ANY KEY TO CONTINUE...                             ║
 ║                                                              ║
 ║  ⚡ "Automating the future, one commit at a time."            ║
 ╚══════════════════════════════════════════════════════════════╝
