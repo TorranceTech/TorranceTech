@@ -96,10 +96,9 @@ SINCE:      2024
 
 ## ▸ ACHIEVEMENTS
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TorranceTech&theme=chartreuse-dark&background=0a0a0a&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=aaffcc&sideNums=00ff66&sideLabels=44aa77&dates=667&currStreakLabel=00ff66" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TorranceTech&theme=chartreuse-dark&background=0a0a0a&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=aaffcc&sideNums=00ff66&sideLabels=44aa77&dates=667&currStreakLabel=00ff66" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=TorranceTech&theme=chartreuse-dark&background=0a0a0a&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=aaffcc&sideNums=00ff66&sideLabels=44aa77&dates=667&currStreakLabel=00ff66" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TorranceTech&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TorranceTech&theme=react-dark&bg_color=0a0a0a&color=00ff66&line=00ff66&point=aaffcc&area=true&hide_border=false&border_color=00ff66" width="100%"/>
 
 ---
 
