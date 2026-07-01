@@ -115,7 +115,7 @@ SINCE:      2024
 ║  >  LOADING NEXT_LEVEL.EXE...                                ║
 ║  >  PRESS ANY KEY TO CONTINUE...                             ║
 ║                                                              ║
-║  ⚡ "Automating the future, one commit at a time."            ║
+║  ⚡ "Automating the future, one commit at a time."           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
