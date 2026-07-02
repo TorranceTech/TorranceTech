@@ -105,7 +105,9 @@ SINCE:      2024
 ## ▸ CONNECT
 
 [![GitHub](https://img.shields.io/badge/GITHUB-00ff66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TorranceTech)
-
+![Code Time](https://img.shields.io/badge/CODE_TIME-1,234hrs-00ff66?style=for-the-badge)
+![Projects](https://img.shields.io/badge/PROJECTS-42-00ff66?style=for-the-badge)
+![Commits](https://img.shields.io/badge/COMMITS-1.2k-00ff66?style=for-the-badge)
 ---
 
 ```ascii
@@ -118,5 +120,22 @@ SINCE:      2024
 ║  ⚡ "Automating the future, one commit at a time."           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+## ▸ TECH STACK / GEAR
 
+### LANGUAGES
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### CLOUD & DEVOPS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### SECURITY TOOLS
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 </div>
