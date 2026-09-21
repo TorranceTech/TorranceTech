@@ -16,13 +16,13 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM BOOT SEQUENCE                      ║
-║              ═══════════════════════════════                 ║
-║  ▸ BIOS CHECK.......... OK                                    ║
-║  ▸ MEMORY TEST......... 64KB OK                               ║
-║  ▸ LOADING KERNEL...... OK                                    ║
-║  ▸ INIT DISPLAY........ 320x240 16-COLOR MODE                 ║
-║  ▸ DECRYPTING PROFILE.. DONE                                  ║
+║                     SYSTEM BOOT SEQUENCE                     ║
+║               ════════════════════════════════               ║
+║  > BIOS CHECK.......... OK                                   ║
+║  > MEMORY TEST......... 64KB OK                              ║
+║  > LOADING KERNEL...... OK                                   ║
+║  > INIT DISPLAY........ 320x240 16-COLOR MODE                ║
+║  > DECRYPTING PROFILE.. DONE                                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -150,12 +150,12 @@ CERT:       CompTIA CySA+
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM SHUTDOWN                            ║
-║              ═══════════════════════════════                 ║
-║  >  LOADING NEXT_LEVEL.EXE...                                 ║
-║  >  PRESS ANY KEY TO CONTINUE...                              ║
-║                                                                ║
-║  ⚡ "Automating the future, one commit at a time."            ║
+║                       SYSTEM SHUTDOWN                        ║
+║               ════════════════════════════════               ║
+║  > LOADING NEXT_LEVEL.EXE...                                 ║
+║  > PRESS ANY KEY TO CONTINUE...                              ║
+║                                                              ║
+║  > "Automating the future, one commit at a time."            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
